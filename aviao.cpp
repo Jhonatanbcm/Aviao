@@ -9,7 +9,6 @@
 #include <stdlib.h>
 #include <map>
 //#include "mede_arquivo.h"
-
 using namespace std;
 //#define tamanho_linhas_jhonatan T_linhas
 //#define tamanho_colunas_jhonatan T_colunas
